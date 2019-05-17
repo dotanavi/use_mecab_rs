@@ -1,0 +1,9 @@
+[package]
+name = "use_mecab_rs"
+version = "0.1.0"
+authors = ["Ota Daichi <daichi.ota@naviplus.co.jp>"]
+edition = "2018"
+
+[dependencies]
+
+libc = "*"
